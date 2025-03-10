@@ -1,7 +1,10 @@
+// composants de la page
+import Header from "../../components/Header";
+
 export default function Home() {
 	return (
 		<>
-			<div>coucou V2</div>
+			<Header />
 		</>
 	);
 }
