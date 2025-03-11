@@ -19,13 +19,14 @@
 		border-radius: 50%;
 		z-index: 1;
 		&--title {
+			font-size: 3rem;
 			color: black;
-			text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.689);
+			text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.134);
 		}
 		&--text {
 			color: black;
-			text-shadow: 2px 2px 0 rgba(255, 255, 255, 0.689);
-			font-size: 1.2rem;
+			text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.134);
+			font-size: 1.4rem;
 		}
 	}
 }
