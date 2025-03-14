@@ -2,8 +2,7 @@
 import "./_header.scss";
 
 // images
-// import banner from "../../assets/images/banner/Banner01.webp"
-import banner from "../../../public/images/Banner01.webp";
+import banner from "../../assets/images/banner/Banner01.webp";
 
 export default function Header() {
 	return (
