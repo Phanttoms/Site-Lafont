@@ -4,7 +4,7 @@ import "./_exemple.scss";
 //test
 
 // images
-import exemple from "../../assets/images/exemple/Exemple01.webp";
+import exemple from "../../assets/images/exemple/imgExemple01.webp";
 
 export default function Exemple() {
 	return (
