@@ -3,7 +3,7 @@ import "./_presentation.scss";
 
 export default function Presentation() {
 	return (
-		<article className="presentation">
+		<section className="presentation">
 			<h2 className="presentation--title">
 				Ferrailleur local dans la Somme depuis 30 ans
 			</h2>
@@ -13,6 +13,6 @@ export default function Presentation() {
 				débarrassons de la cave au grenier. Découpe chalumeau, bâtiment
 				agricole, vide maison integralement.
 			</p>
-		</article>
+		</section>
 	);
 }

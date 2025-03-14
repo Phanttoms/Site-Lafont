@@ -7,7 +7,7 @@ import logoGPS from "../../assets/logo/Logo-GPS.png";
 
 export default function Contact() {
 	return (
-		<article className="contact">
+		<section className="contact">
 			<div className="contact__content">
 				<h2 className="contact__content--title">Contact</h2>
 				<div className="contact__content__info">
@@ -29,6 +29,6 @@ export default function Contact() {
 					</p>
 				</div>
 			</div>
-		</article>
+		</section>
 	);
 }

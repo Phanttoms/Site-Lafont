@@ -2,11 +2,11 @@
 import "./_exemple.scss";
 
 // images
-import exemple from "../../assets/images/exemple/Exemple01.png";
+import exemple from "../../assets/images/exemple/Exemple01.webp";
 
 export default function Exemple() {
 	return (
-		<article className="exemple">
+		<section className="exemple">
 			<div className="exemple__content">
 				<img
 					className="exemple__content--img"
@@ -34,6 +34,6 @@ export default function Exemple() {
 					<li>Garages</li>
 				</ul>
 			</div>
-		</article>
+		</section>
 	);
 }
