@@ -1,8 +1,6 @@
 // style
 import "./_exemple.scss";
 
-//test
-
 // images
 import exemple from "../../assets/images/exemple/imgExemple01.webp";
 
