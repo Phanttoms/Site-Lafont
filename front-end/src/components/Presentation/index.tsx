@@ -8,10 +8,10 @@ export default function Presentation() {
 				Ferrailleur local dans la Somme depuis 30 ans
 			</h2>
 			<p className="presentation--text">
-				Nous vous débarrassons de toutes vos férailles et électroménager en
-				petite et grande quantité, enlèvons vos épaves de voiture et vous
-				débarrassons de la cave au grenier. Découpe chalumeau, bâtiment
-				agricole, vide maison integralement.
+				Nous vous débarrassons de toutes vos ferrailles et électroménagers, en
+				petite ou grande quantité. Nous enlevons également vos épaves de voiture
+				et vidons tout, de la cave au grenier. Découpe au chalumeau, démontage
+				de bâtiments agricoles et vidage complet de maisons.
 			</p>
 		</section>
 	);
